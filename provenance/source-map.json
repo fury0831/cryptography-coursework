@@ -1,0 +1,173 @@
+{
+  "cell_index_base": 0,
+  "source_records": [
+    {
+      "source_notebook": "Zhang.ipynb",
+      "source_sha256": "b32435af88d034bf833eb0ef68d73bcb14160be258e0e1df231b97ced4f41786",
+      "module": "src/cryptography_coursework/rsa.py",
+      "functions": [
+        {
+          "name": "read_one_record",
+          "cell_index": 2
+        },
+        {
+          "name": "fme",
+          "cell_index": 4
+        },
+        {
+          "name": "gcd",
+          "cell_index": 4
+        },
+        {
+          "name": "extended_gcd",
+          "cell_index": 4
+        },
+        {
+          "name": "mod_inverse",
+          "cell_index": 4
+        },
+        {
+          "name": "compute_d",
+          "cell_index": 4
+        },
+        {
+          "name": "decrypt_numbers_to_string",
+          "cell_index": 4
+        },
+        {
+          "name": "smallest_prime_factor",
+          "cell_index": 4
+        },
+        {
+          "name": "pollard_rho_factor",
+          "cell_index": 7
+        },
+        {
+          "name": "factor_n",
+          "cell_index": 7
+        },
+        {
+          "name": "decrypt_rsa_message",
+          "cell_index": 9
+        }
+      ],
+      "extraction": "complete function definitions; original top-level inputs and outputs excluded"
+    },
+    {
+      "source_notebook": "ecc_project.ipynb",
+      "source_sha256": "69005b11fa7ddae3974ab87363f87e13b3a132d4dabc6a729e11ea10fd0dd468",
+      "module": "src/cryptography_coursework/ecc.py",
+      "functions": [
+        {
+          "name": "is_prime",
+          "cell_index": 3
+        },
+        {
+          "name": "check_curve",
+          "cell_index": 4
+        },
+        {
+          "name": "right_side",
+          "cell_index": 5
+        },
+        {
+          "name": "is_on_curve",
+          "cell_index": 6
+        },
+        {
+          "name": "inverse_mod",
+          "cell_index": 7
+        },
+        {
+          "name": "point_neg",
+          "cell_index": 8
+        },
+        {
+          "name": "point_add",
+          "cell_index": 9
+        },
+        {
+          "name": "scalar_mult",
+          "cell_index": 10
+        },
+        {
+          "name": "legendre_symbol",
+          "cell_index": 12
+        },
+        {
+          "name": "make_two_roots",
+          "cell_index": 13
+        },
+        {
+          "name": "square_roots_mod_prime",
+          "cell_index": 14
+        },
+        {
+          "name": "roots_for_x",
+          "cell_index": 15
+        },
+        {
+          "name": "find_points_by_roots",
+          "cell_index": 16
+        },
+        {
+          "name": "count_curve_points_by_roots",
+          "cell_index": 17
+        },
+        {
+          "name": "factor_number",
+          "cell_index": 19
+        },
+        {
+          "name": "point_order_from_group_order",
+          "cell_index": 20
+        },
+        {
+          "name": "find_char_index",
+          "cell_index": 22
+        },
+        {
+          "name": "char_to_point",
+          "cell_index": 23
+        },
+        {
+          "name": "point_to_char",
+          "cell_index": 24
+        },
+        {
+          "name": "message_to_points",
+          "cell_index": 25
+        },
+        {
+          "name": "points_to_message",
+          "cell_index": 26
+        },
+        {
+          "name": "check_mapping",
+          "cell_index": 27
+        },
+        {
+          "name": "create_keys",
+          "cell_index": 29
+        },
+        {
+          "name": "encrypt_point",
+          "cell_index": 30
+        },
+        {
+          "name": "decrypt_point",
+          "cell_index": 31
+        },
+        {
+          "name": "encrypt_message",
+          "cell_index": 32
+        },
+        {
+          "name": "decrypt_message",
+          "cell_index": 33
+        }
+      ],
+      "extraction": "complete function definitions; original top-level inputs and outputs excluded"
+    }
+  ]
+}

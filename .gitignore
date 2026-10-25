@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+
+# Original course material and private notebook outputs are not release assets.
+*.ipynb
+Zhang.txt
+review-inputs/
+*.pdf
